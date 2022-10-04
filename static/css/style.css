@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+html {
+  width: 100%;
+}
+
+h1 {
+  color: #000;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+body {
+  width: 100%;
+  font-family: "Helvetica";
+  background: blue;
+  color: #fff;
+  font-size: 24px;
+  text-align: center;
+}
+
+.login {
+  position: absolute;
+  top: 27%;
+  left: 50%;
+  margin: -150px 0 0 -150px;
+  width: 400px;
+  height: 700px;
+}
+
+input {
+  width: 100%;
+  margin-bottom: 10px;
+  border: none;
+  outline: none;
+  padding: 10px;
+  font-size: 13px;
+  color: #000;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+select {
+  width: 100%;
+  margin-bottom: 10px;
+  border: none;
+  outline: none;
+  padding: 10px;
+  font-size: 13px;
+  color: #000;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+
+}
