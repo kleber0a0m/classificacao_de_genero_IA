@@ -80,7 +80,7 @@ pickle.dump(clf, open('model.pkl','wb'))
 ```
 Parte do Dataset foi utilizada para o treinamento da IA e parte foi usada para testar so modelo, foi obtido 95.46% de acurácia.
 
-O model.pkl exportado anteriomente foi colocado em produção utilizando [flask](https://flask.palletsprojects.com/ "flask") e está hospedado gratuitamento no [heroku](https://www.heroku.com/ "heroku")
+O model.pkl exportado anteriomente foi colocado em produção utilizando [flask](https://flask.palletsprojects.com/ "flask") e está hospedado gratuitamento no [heroku](https://www.heroku.com/ "heroku").
 
 
 
