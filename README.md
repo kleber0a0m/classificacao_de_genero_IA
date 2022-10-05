@@ -10,14 +10,14 @@ Essa aplicação é capaz de informar seu gênero (Masculino ou Feminino) a part
  - Distância entre nariz e lábios?
 
 ### Teste você mesmo:
-[Clique aqui](http://kleberalbinomoreira.com.br/classificacao_de_genero_IA.html "http://kleberalbinomoreira.com.br/classificacao_de_genero_IA.html")
+[Clique aqui](https://classificacao-de-genero-ia.herokuapp.com/ "https://classificacao-de-genero-ia.herokuapp.com/")
 ### Processo de desenvolvimento:
 Essa aplicação utiliza aprendizagem de máquina, e o modelo foi treinado utilizando um Dataset de domino púlico disponivel no  [kaggle](https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset "kaggle").
 
 Segue um trecho do Dataset:
 
 |long_hair|forehead_width_cm|forehead_height_cm|nose_wide|nose_long|lips_thin|distance_nose_to_lip_long|gender|
-|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|--|--|
 |1|11.8|6.1|1|0|1|1|Male|
 |0|14|5.4|0|0|1|0|Female|
 |0|11.8|6.3|1|1|1|1|Male|
