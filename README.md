@@ -10,7 +10,7 @@ Essa aplicação é capaz de informar seu gênero (Masculino ou Feminino) a part
  - Distância entre nariz e lábios?
 
 ### Teste você mesmo:
-[Clique aqui](https://classificacao-de-genero-ia.herokuapp.com/ "https://classificacao-de-genero-ia.herokuapp.com/")
+[Clique aqui](https://kleberalbinomoreira.com.br/classificacao_de_genero_IA.html "https://kleberalbinomoreira.com.br/classificacao_de_genero_IA.html")
 ### Processo de desenvolvimento:
 Essa aplicação utiliza aprendizagem de máquina, e o modelo foi treinado utilizando um Dataset de domino púlico disponivel no  [kaggle](https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset "kaggle").
 
@@ -78,7 +78,7 @@ pickle.dump(clf, open('model.pkl','wb'))
 
 
 ```
-Parte do Dataset foi utilizada para o treinamento da IA e parte foi usada para testar so modelo, foi obtido 95.46% de acurácia.
+Parte do Dataset foi utilizada para o treinamento da IA e parte foi usada para testar o modelo, foi obtido 95.46% de acurácia.
 
 O model.pkl exportado anteriomente foi colocado em produção utilizando [flask](https://flask.palletsprojects.com/ "flask") e está hospedado gratuitamento no [heroku](https://www.heroku.com/ "heroku").
 
