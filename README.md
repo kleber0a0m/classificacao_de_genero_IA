@@ -85,6 +85,8 @@ O model.pkl exportado anteriomente foi colocado em produção utilizando [flask]
 ### Vídeo Explicativo:
 [Clique aqui](https://youtu.be/R1SpLEHg2xs "https://youtu.be/R1SpLEHg2xs")
 
+#### Feito por: Kléber Albino Moreira e Antonio Augusto Ferreira Felix
+
 
 
 
