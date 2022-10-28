@@ -21,12 +21,12 @@ def predict():
     final_features = [np.array(features)]
     pred = model.predict(final_features)
 
-    print (pred[0] == 0 and "Feminino" or "Masculino")
+    print (pred[0] != 0 and "Feminino" or "Masculino")
 
     
 
 
-    output = str(pred[0] == 0 and "Masculino" or "Feminino")
+    output = str(pred[0] != 0 and "Masculino" or "Feminino")
 
     
 
