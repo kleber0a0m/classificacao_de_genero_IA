@@ -82,6 +82,10 @@ Parte do Dataset foi utilizada para o treinamento da IA e parte foi usada para t
 
 O model.pkl exportado anteriomente foi colocado em produção utilizando [flask](https://flask.palletsprojects.com/ "flask") e está hospedado gratuitamento no [heroku](https://www.heroku.com/ "heroku").
 
+### Vídeo Explicativo:
+[Clique aqui](https://youtu.be/R1SpLEHg2xs "https://youtu.be/R1SpLEHg2xs")
+
+
 
 
 
