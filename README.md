@@ -9,7 +9,7 @@ Essa aplicação é capaz de informar seu gênero (Masculino ou Feminino) a part
  - Lábios finos?
  - Distância entre nariz e lábios?
 
-### Teste você mesmo:
+### Veja mais aqui:
 [Clique aqui](https://kleberalbinomoreira.com.br/classificacao_de_genero_IA.html "https://kleberalbinomoreira.com.br/classificacao_de_genero_IA.html")
 ### Processo de desenvolvimento:
 Essa aplicação utiliza aprendizagem de máquina, e o modelo foi treinado utilizando um Dataset de domino púlico disponivel no  [kaggle](https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset "kaggle").
